@@ -1,0 +1,139 @@
+body
+{
+	padding: 0;
+	margin: 0;
+}
+
+th
+{
+	opacity: 0;
+	margin: 0;
+	padding: 0;
+}
+
+td
+{
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.abbrevation
+{
+	padding: 10px;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 5px;
+	font-weight: bold;
+	width: 45px;
+	font-size: 20px;
+}
+
+.liquid
+{
+	color: #00f;
+	padding: 10px;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 5px;
+	font-weight: bold;
+	width: 45px;
+	font-size: 20px;
+}
+
+.gas
+{
+	color: #f00;
+	padding: 10px;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 5px;
+	font-weight: bold;
+	width: 45px;
+	font-size: 20px;
+}
+
+.synthetic
+{
+	-webkit-text-stroke: 1px #000;
+	color: #fff;
+	padding: 10px;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 5px;
+	font-weight: bold;
+	width: 45px;
+	font-size: 20px;
+}
+
+.number
+{
+	float: left;
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+.atomweight
+{
+	float: right;
+	margin: 0;
+	padding: 0;
+	font-size: 10px;
+}
+
+.atomweightfix
+{
+	float: right;
+	margin: 0;
+	padding: 0;
+	font-size: 10px;
+	margin-top: -26px;
+}
+
+.numberfix
+{
+	float: left;
+	margin-top: -26px;
+}
+
+.bottomtext
+{
+	padding: 0;
+	margin: 0;
+	font-size: 10px;
+}
+
+.invis
+{
+	opacity: 0;
+}
+
+.smalltext
+{
+	font-size: 10px;
+}
+
+
+.alkali {
+	background-color: #bfbfbf;
+}
+
+.alkaliearth {
+	background-color: #80c980;
+}
+
+.transitional {
+	background-color: #feff7f;
+}
+
+.othermetals {
+	background-color: #f99bcd;
+}
+
+.nonmetals {
+	background-color: #80cee2;
+}
+
+.noblegases {
+	background-color: #fdc091;
+}
